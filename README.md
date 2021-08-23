@@ -1,6 +1,6 @@
 # You Only Look Once : An Incremental Upadte -  (YOLOv3)
 
-Authors: Mariaos Marianos , Denzil A Joy
+Authors: Mariaos Marinos , Denzil A Joy
 
 Object Identification involves detecting objects in an image and identifying the classes. Before YOLO(You Only Look Once), object detectors were quite
 slow as it involves extraction of regions in an image preceding classification. Slower Frames Per Second(FPS) are deterimental for object detection in applications 
